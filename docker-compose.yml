@@ -25,3 +25,4 @@ services:
       MYSQL_PASSWORD: 123
     ports:
       - "3306:3306"
+
